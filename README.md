@@ -12,7 +12,7 @@ yarn add typescript @types/react @types/node -D
 ```
 
 ### Sass:
-[https://sass-lang.com/](sass-lang.com)
+[sass-lang.com](https://sass-lang.com/)
 ```shell
 yarn add sass
 ```
