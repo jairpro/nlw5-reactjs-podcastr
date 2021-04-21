@@ -24,8 +24,6 @@ yarn add sass
 ### date-fns:
 [https://date-fns.org/v2.20.1/docs/format](https://date-fns.org/v2.20.1/docs/format)
 ```shell
-yarn add typescript @types/react @types/node -D
-
 yarn add date-fns
 ```
 
