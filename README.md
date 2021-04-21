@@ -1,34 +1,35 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# NLW#5 - Trilha React JS - Podcastr
+Aplicação web para podcasts
 
-## Getting Started
-
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
+### Criando o projeto:
+```shell
+npx react-next-app podcastr
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### Dependências:
+```shell
+yarn add typescript @types/react @types/node -D
+```
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+### Sass:
+[https://sass-lang.com/](sass-lang.com)
+```shell
+yarn add sass
+```
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+### Leiaute:
+[https://www.figma.com/file/UwFEntsHpHYJlHNQAQr4gA/Podcastr?node-id=160%3A2761](https://www.figma.com/file/UwFEntsHpHYJlHNQAQr4gA/Podcastr?node-id=160%3A2761)
+[https://www.figma.com/file/cdo38ABVRzVbrrFBM4S7el/Podcastr-(Copy)](https://www.figma.com/file/cdo38ABVRzVbrrFBM4S7el/Podcastr-(Copy))
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+### date-fns:
+[https://date-fns.org/v2.20.1/docs/format](https://date-fns.org/v2.20.1/docs/format)
+```shell
+yarn add typescript @types/react @types/node -D
 
-## Learn More
+yarn add date-fns
+```
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+### JSON Server
+```shell
+yarn add json-server -D
+```
