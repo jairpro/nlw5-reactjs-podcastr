@@ -1,6 +1,28 @@
 # NLW#5 - Trilha React JS - Podcastr
 Aplicação web para podcasts
 
+## Uso
+Execução do projeto
+
+### Executar servidor local
+```shell
+yarn server
+```
+
+### Executar aplicação
+```shell
+yarn dev
+```
+
+### Compilar aplicação em modo de produção
+Para gerar os dados e páginas estáticas detectáveis pelos buscadores
+```shell
+yarn build
+```
+
+## Desenvolvimento
+Tecnologias utilizadas
+
 ### Criando o projeto:
 ```shell
 npx react-next-app podcastr
@@ -30,4 +52,14 @@ yarn add date-fns
 ### JSON Server
 ```shell
 yarn add json-server -D
+```
+```shell
+yarn server
+```
+
+### Axios
+(https://axios-http.com/)[https://axios-http.com/]
+(https://github.com/axios/axios)[https://github.com/axios/axios]
+```shell
+yarn add axios
 ```
