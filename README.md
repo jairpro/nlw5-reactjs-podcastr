@@ -63,3 +63,8 @@ yarn server
 ```shell
 yarn add axios
 ```
+
+### RC Slider
+```shell
+yarn add rc-slider
+```
