@@ -72,4 +72,4 @@ yarn add rc-slider
 
 
 ## 💜 Agradecimentos 
-Agradeço ao Diego Fernandes pela baita aula e ao apoio de todos da Rocketatseat para levar a nós devs para o próximo nível.
+Agradeço ao [Diego Fernandes](https://github.com/diego3g) pela baita aula, ao [Tiago Luchtenberg](https://www.instagram.com/tiagoluchtenberg/?hl=pt-br) pelos leiautes e ao apoio de todos da [Rockeatseat](https://rocketseat.com.br/) para levar a nós devs para o próximo nível.
